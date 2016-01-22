@@ -84,11 +84,19 @@ section svg {
 }
 
 section svg ellipse {
-	
+		fill: none;
+	    stroke: gray;
+	    stroke-width: 2px;	
 }
 
 .neptun {
 	fill: none;
 	stroke: gray;
+	stroke-width: 2px;
+}
+
+.sonne {
+	fill: #f1c40f;
+	stroke: #f1c40f;
 	stroke-width: 2px;
 }
